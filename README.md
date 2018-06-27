@@ -1,6 +1,9 @@
 ### AWS Instances 
 https://www.ec2instances.info
 
+### Deep learning book
+http://deeplearningbook.com.br/capitulos/
+
 ### Eigenvectors and Eigenvalues
 http://setosa.io/ev/eigenvectors-and-eigenvalues/
 
