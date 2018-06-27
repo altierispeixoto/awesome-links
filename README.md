@@ -12,6 +12,7 @@ http://setosa.io/ev/markov-chains/
 
 ### Neural Networks
 https://medium.freecodecamp.org/build-a-flexible-neural-network-with-backpropagation-in-python-acffeb7846d0
+https://www-users.cs.umn.edu/~agoncalv/arquivos/pdfs/redes_neurais.pdf
 
 ### PCA - Principal Component Analysis
 http://setosa.io/ev/principal-component-analysis/
