@@ -3,6 +3,7 @@ https://www.ec2instances.info
 
 ### Deep learning book
 http://deeplearningbook.com.br/capitulos/
+http://neuralnetworksanddeeplearning.com/
 
 ### Eigenvectors and Eigenvalues
 http://setosa.io/ev/eigenvectors-and-eigenvalues/
