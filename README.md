@@ -8,6 +8,9 @@ http://neuralnetworksanddeeplearning.com/
 ### Eigenvectors and Eigenvalues
 http://setosa.io/ev/eigenvectors-and-eigenvalues/
 
+### Feature Scaling
+http://sebastianraschka.com/Articles/2014_about_feature_scaling.html#standardization-and-min-max-scaling
+
 ### Markov Chains
 http://setosa.io/ev/markov-chains/
 
@@ -17,4 +20,5 @@ https://www-users.cs.umn.edu/~agoncalv/arquivos/pdfs/redes_neurais.pdf
 
 ### PCA - Principal Component Analysis
 http://setosa.io/ev/principal-component-analysis/
+http://sebastianraschka.com/Articles/2014_pca_step_by_step.html
 
