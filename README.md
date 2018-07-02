@@ -6,6 +6,7 @@ http://www.facom.ufu.br/~backes/pgc204/Aula09-Agrupamentos.pdf
 
 ### Deep learning book
 http://deeplearningbook.com.br/capitulos/
+http://www.deeplearningbook.org/
 http://neuralnetworksanddeeplearning.com/
 
 ### Eigenvectors and Eigenvalues
