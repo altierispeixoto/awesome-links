@@ -28,3 +28,5 @@ https://jalammar.github.io/feedforward-neural-networks-visual-interactive/
 http://setosa.io/ev/principal-component-analysis/
 http://sebastianraschka.com/Articles/2014_pca_step_by_step.html
 
+### Outros
+http://cio.com.br/carreira/2018/01/04/dezoito-livros-que-valem-mais-que-um-doutorado-em-data-science/
