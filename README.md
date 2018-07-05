@@ -9,7 +9,8 @@ http://deeplearningbook.com.br/capitulos/
 http://www.deeplearningbook.org/  
 http://neuralnetworksanddeeplearning.com/  
 https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1
-
+https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+https://arxiv.org/pdf/1802.01528.pdf - The Matrix Calculus You Need For Deep Learning
 ### Eigenvectors and Eigenvalues
 http://setosa.io/ev/eigenvectors-and-eigenvalues/
 
