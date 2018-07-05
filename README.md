@@ -8,6 +8,7 @@ http://www.facom.ufu.br/~backes/pgc204/Aula09-Agrupamentos.pdf
 http://deeplearningbook.com.br/capitulos/  
 http://www.deeplearningbook.org/  
 http://neuralnetworksanddeeplearning.com/  
+https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1
 
 ### Eigenvectors and Eigenvalues
 http://setosa.io/ev/eigenvectors-and-eigenvalues/
