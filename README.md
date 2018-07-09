@@ -12,6 +12,7 @@ https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-
 https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 https://arxiv.org/pdf/1802.01528.pdf - The Matrix Calculus You Need For Deep Learning
 http://course.fast.ai/
+https://towardsdatascience.com/tensorflow-speech-recognition-challenge-solution-outline-9c42dbd219c9
 
 ### Eigenvectors and Eigenvalues
 http://setosa.io/ev/eigenvectors-and-eigenvalues/
@@ -21,6 +22,7 @@ http://sebastianraschka.com/Articles/2014_about_feature_scaling.html#standardiza
 
 ### Markov Chains
 http://setosa.io/ev/markov-chains/
+https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial
 
 ### Neural Networks
 https://medium.freecodecamp.org/build-a-flexible-neural-network-with-backpropagation-in-python-acffeb7846d0  
