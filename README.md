@@ -3,6 +3,7 @@ https://www.ec2instances.info
 
 ### Clustering
 http://www.facom.ufu.br/~backes/pgc204/Aula09-Agrupamentos.pdf
+https://www.maxwell.vrac.puc-rio.br/7975/7975_3.PDF
 
 ### Deep learning book
 http://deeplearningbook.com.br/capitulos/  
