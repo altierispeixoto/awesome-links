@@ -41,3 +41,8 @@ http://cio.com.br/carreira/2018/01/04/dezoito-livros-que-valem-mais-que-um-douto
 https://developers.google.com/machine-learning/crash-course/
 
 https://www.edx.org/course/essential-math-machine-learning-python
+
+
+https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf
+
+https://web.stanford.edu/~hastie/Papers/ESLII.pdf
