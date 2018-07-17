@@ -47,3 +47,6 @@ https://www.edx.org/course/essential-math-machine-learning-python
 https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf
 http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+
+### Feature Engineering
+http://www.feat.engineering/
