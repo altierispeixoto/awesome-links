@@ -55,3 +55,6 @@ http://www.feat.engineering/
 http://kepler.gl/#/
 
 http://sundog-education.com/deep-learning/
+
+http://playground.tensorflow.org/
+
