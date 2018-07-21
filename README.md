@@ -58,3 +58,5 @@ http://sundog-education.com/deep-learning/
 
 http://playground.tensorflow.org/
 
+ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/theses/lnunes_mest/indice.pdf
+
