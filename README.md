@@ -65,3 +65,9 @@ ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/theses/lnunes_mest/indice.pdf
 http://datacanvas.org/public-transportation/
 
 https://towardsdatascience.com/understanding-box-plots-482e013d4960
+
+### LIME
+https://github.com/marcotcr/lime
+
+### shap
+https://github.com/slundberg/shap
