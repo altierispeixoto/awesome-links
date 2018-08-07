@@ -18,6 +18,9 @@ http://course.fast.ai/
 https://towardsdatascience.com/tensorflow-speech-recognition-challenge-solution-outline-9c42dbd219c9
 http://deeplearningbook.com.br/capitulos/
 
+### 7 Practical Deep Learning Tips
+https://towardsdatascience.com/7-practical-deep-learning-tips-97a9f514100e
+
 ### Eigenvectors and Eigenvalues
 http://setosa.io/ev/eigenvectors-and-eigenvalues/
 
@@ -71,3 +74,14 @@ https://github.com/marcotcr/lime
 
 ### shap
 https://github.com/slundberg/shap
+
+### Deep Residual Learning for Image Recognition
+https://arxiv.org/pdf/1512.03385.pdf
+
+### PRUNING CONVOLUTIONAL NEURAL NETWORKS FOR RESOURCE EFFICIENT INFERENCE
+https://arxiv.org/pdf/1611.06440.pdf
+
+### “Why Should I Trust You?” Explaining the Predictions of Any Classifier
+https://arxiv.org/pdf/1602.04938.pdf
+
+### http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
