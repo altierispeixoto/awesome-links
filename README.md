@@ -84,4 +84,5 @@ https://arxiv.org/pdf/1611.06440.pdf
 ### “Why Should I Trust You?” Explaining the Predictions of Any Classifier
 https://arxiv.org/pdf/1602.04938.pdf
 
-### http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
+### A Unified Approach to Interpreting Model Predictions
+http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
