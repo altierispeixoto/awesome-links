@@ -86,3 +86,9 @@ https://arxiv.org/pdf/1602.04938.pdf
 
 ### A Unified Approach to Interpreting Model Predictions
 http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
+
+### Learning Transferable Architectures for Scalable Image Recognition
+https://arxiv.org/pdf/1707.07012.pdf
+
+### Efficient Neural Architecture Search via Parameter Sharing
+https://arxiv.org/pdf/1802.03268.pdf
