@@ -92,3 +92,6 @@ https://arxiv.org/pdf/1707.07012.pdf
 
 ### Efficient Neural Architecture Search via Parameter Sharing
 https://arxiv.org/pdf/1802.03268.pdf
+
+### kotlin_for_data_science
+https://resources.jetbrains.com/storage/products/kotlinconf2017/slides/kotlin_for_data_science.pdf
