@@ -103,3 +103,9 @@ https://arxiv.org/pdf/1404.7828.pdf
 
 ### Fraud Detection Based on Graph 
 https://towardsdatascience.com/getting-started-with-graph-analysis-in-python-with-pandas-and-networkx-5e2d2f82f18e
+
+
+### Geolocation Cache
+http://engblog.yext.com/post/geolocation-caching
+http://blog.notdot.net/2009/11/Damn-Cool-Algorithms-Spatial-indexing-with-Quadtrees-and-Hilbert-Curves
+
