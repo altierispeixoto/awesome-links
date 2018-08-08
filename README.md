@@ -111,3 +111,6 @@ http://blog.notdot.net/2009/11/Damn-Cool-Algorithms-Spatial-indexing-with-Quadtr
 
 ### How I implemented iPhone X’s FaceID using Deep Learning in Python.
 https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d
+
+
+http://geometricdeeplearning.com/
