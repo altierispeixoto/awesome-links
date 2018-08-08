@@ -95,3 +95,8 @@ https://arxiv.org/pdf/1802.03268.pdf
 
 ### kotlin_for_data_science
 https://resources.jetbrains.com/storage/products/kotlinconf2017/slides/kotlin_for_data_science.pdf
+
+http://course.fast.ai/
+
+### Deep Learning in Neural Networks: An Overview
+https://arxiv.org/pdf/1404.7828.pdf
