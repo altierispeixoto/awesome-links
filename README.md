@@ -100,3 +100,6 @@ http://course.fast.ai/
 
 ### Deep Learning in Neural Networks: An Overview
 https://arxiv.org/pdf/1404.7828.pdf
+
+### Fraud Detection Based on Graph 
+https://towardsdatascience.com/getting-started-with-graph-analysis-in-python-with-pandas-and-networkx-5e2d2f82f18e
