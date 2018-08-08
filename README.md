@@ -109,3 +109,5 @@ https://towardsdatascience.com/getting-started-with-graph-analysis-in-python-wit
 http://engblog.yext.com/post/geolocation-caching
 http://blog.notdot.net/2009/11/Damn-Cool-Algorithms-Spatial-indexing-with-Quadtrees-and-Hilbert-Curves
 
+### How I implemented iPhone X’s FaceID using Deep Learning in Python.
+https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d
