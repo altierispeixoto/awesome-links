@@ -114,3 +114,6 @@ https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-lea
 
 
 http://geometricdeeplearning.com/
+
+https://christophm.github.io/interpretable-ml-book/
+
