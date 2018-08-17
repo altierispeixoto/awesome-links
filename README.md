@@ -5,6 +5,9 @@ http://www.libertyseguros.com.br/nextfive/Pages/index.aspx#tecnologia
 
 https://geotrellis.io/
 
+https://github.com/tbrugz/geodata-br
+
+http://geojson.io
 
 ### AWS Instances 
 https://www.ec2instances.info
