@@ -127,3 +127,9 @@ https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insigh
 
 ### working with timezones
 https://davecturner.github.io/2018/08/12/working-with-timezones.html?utm_source=ActiveCampaign&utm_medium=email&utm_content=BDN+%23135%3A+pop+songs+analysis%2C+the+FiveThirtyEight+algorithm%2C+and+what+makes+Paris+Paris&utm_campaign=Banana+Data+%23135
+
+
+https://github.com/OpenGeoscience/geonotebook
+https://github.com/locationtech-labs/geopyspark
+http://geoserver.org/
+https://github.com/locationtech/geotrellis
