@@ -1,3 +1,5 @@
+http://revista.usereserva.com/2016/01/05/decida-como-voce-quer-viver/
+
 #### pré-req to machine learning
 https://matheusfacure.github.io/2017/01/15/pre-req-ml/
 
