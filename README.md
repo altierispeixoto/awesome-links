@@ -1,3 +1,6 @@
+#### pré-req to machine learning
+https://matheusfacure.github.io/2017/01/15/pre-req-ml/
+
 http://www.libertyseguros.com.br/nextfive/Pages/index.aspx#tecnologia
 
 ### AWS Instances 
