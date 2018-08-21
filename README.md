@@ -1,5 +1,7 @@
 https://transmogrif.ai/
 
+https://oracle.github.io/graphpipe
+
 http://revista.usereserva.com/2016/01/05/decida-como-voce-quer-viver/
 
 https://medium.com/technomancy/the-blunt-guide-to-mathematically-rigorous-machine-learning-c53263d45c7b
