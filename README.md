@@ -1,3 +1,5 @@
+http://gpuopenanalytics.com/#/
+
 https://transmogrif.ai/
 
 https://oracle.github.io/graphpipe
