@@ -1,3 +1,5 @@
+https://www.mapd.com/
+
 http://gpuopenanalytics.com/#/
 
 https://transmogrif.ai/
