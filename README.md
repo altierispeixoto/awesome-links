@@ -1,3 +1,5 @@
+https://medium.com/data-hackers/os-tipos-de-engenheiros-de-dados-c3674b4d74d1
+
 https://www.mapd.com/
 
 http://gpuopenanalytics.com/#/
