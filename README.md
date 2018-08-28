@@ -1,3 +1,5 @@
+https://arxiv.org/pdf/1808.03314.pdf
+
 https://medium.com/data-hackers/os-tipos-de-engenheiros-de-dados-c3674b4d74d1
 
 https://www.mapd.com/
