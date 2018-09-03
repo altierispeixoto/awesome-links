@@ -1,3 +1,5 @@
+https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
 http://neupy.com/pages/cheatsheet.html
 
 https://maxdemarzi.com/2018/03/21/neo4j-geospatial-queries/
