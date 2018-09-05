@@ -1,3 +1,5 @@
+https://arxiv.org/pdf/1611.00847v2.pdf
+
 https://www.andrew.cmu.edu/user/lakoglu/wsdm13/
 
 https://turi.com
