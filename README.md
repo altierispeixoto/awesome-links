@@ -1,3 +1,5 @@
+https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/
+
 https://www.hindawi.com/journals/mpe/2018/3742048/
 
 https://github.com/christopherjenness/DBCV
