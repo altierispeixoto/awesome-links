@@ -1,3 +1,6 @@
+
+[Processos de Decisão de Markov: um tutorial](http://www.seer.ufrgs.br/rita/article/viewFile/rita_v14_n2_p133-179/3544)
+
 https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf
 
 https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/
