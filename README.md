@@ -1,39 +1,38 @@
 
 [Processos de Decisão de Markov: um tutorial](http://www.seer.ufrgs.br/rita/article/viewFile/rita_v14_n2_p133-179/3544)
 
-https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf
+[Where did the least-square come from?](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
 
-https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/
+[An End-to-End Guide to Understand the Math behind XGBoost](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
 
-https://www.hindawi.com/journals/mpe/2018/3742048/
+[A -Deviation Density Based Clustering Algorithm](https://www.hindawi.com/journals/mpe/2018/3742048/)
 
-https://github.com/christopherjenness/DBCV
+[DBCV - Python implementation of Density-Based Clustering Validation](https://github.com/christopherjenness/DBCV)
 
-https://arxiv.org/pdf/1611.00847v2.pdf
+[DEEP CONVOLUTIONAL NEURAL NETWORK DESIGN PATTERNS](https://arxiv.org/pdf/1611.00847v2.pdf)
 
-https://www.andrew.cmu.edu/user/lakoglu/wsdm13/
+[Anomaly, Event, and Fraud Detection in Large Graph Datasets](https://www.andrew.cmu.edu/user/lakoglu/wsdm13/)
 
-https://turi.com
+[Turi - Simple development of custom machine learning models ](https://turi.com)
 
-https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+[24 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
-http://neupy.com/pages/cheatsheet.html
+[Neupy - Cheat sheet](http://neupy.com/pages/cheatsheet.html)
 
-https://maxdemarzi.com/2018/03/21/neo4j-geospatial-queries/
-
-https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
+[The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 
 http://bytepawn.com/
 
-https://arxiv.org/pdf/1808.03314.pdf
+[Fundamentals of Recurrent Neural Network (RNN)
+and Long Short-Term Memory (LSTM) Network](https://arxiv.org/pdf/1808.03314.pdf)
 
-https://medium.com/data-hackers/os-tipos-de-engenheiros-de-dados-c3674b4d74d1
+[Os Tipos de Engenheiros de Dados](https://medium.com/data-hackers/os-tipos-de-engenheiros-de-dados-c3674b4d74d1)
 
-https://www.mapd.com/
+[MapD - GPU Database](https://www.mapd.com/)
 
-http://gpuopenanalytics.com/#/
+[Gpu Analytics Initiative](http://gpuopenanalytics.com/#/)
 
-https://transmogrif.ai/
+[TransmogrifAI - Automated machine learning for structured data.](https://transmogrif.ai/)
 
 https://oracle.github.io/graphpipe
 
