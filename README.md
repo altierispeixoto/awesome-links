@@ -1,4 +1,6 @@
 
+http://karpathy.github.io/2016/05/31/rl/
+
 [Processos de Decisão de Markov: um tutorial](http://www.seer.ufrgs.br/rita/article/viewFile/rita_v14_n2_p133-179/3544)
 
 [Where did the least-square come from?](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
