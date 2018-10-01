@@ -1,4 +1,8 @@
 
+https://sadanand-singh.github.io/
+
+https://sadanand-singh.github.io/posts/autoencoders/
+
 http://aqibsaeed.github.io
 
 http://karpathy.github.io/2016/05/31/rl/
