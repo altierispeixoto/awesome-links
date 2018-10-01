@@ -1,4 +1,6 @@
 
+https://blog.keras.io/building-autoencoders-in-keras.html
+
 https://sadanand-singh.github.io/
 
 https://sadanand-singh.github.io/posts/autoencoders/
