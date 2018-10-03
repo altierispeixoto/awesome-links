@@ -1,4 +1,6 @@
 
+https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
+
 [neural network embeddings explained](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526)
 
 [why momentum really works](https://distill.pub/2017/momentum/)
