@@ -1,9 +1,12 @@
 
-https://blog.keras.io/building-autoencoders-in-keras.html
+[neural network embeddings explained](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526)
 
-https://sadanand-singh.github.io/
+[why momentum really works](https://distill.pub/2017/momentum/)
 
-https://sadanand-singh.github.io/posts/autoencoders/
+[building autoencoders in keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+
+[A Practical guide to Autoencoders](https://sadanand-singh.github.io/posts/autoencoders/)
+
 
 http://aqibsaeed.github.io
 
