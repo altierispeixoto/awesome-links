@@ -1,4 +1,8 @@
 
+[Math behind CNN](https://arxiv.org/pdf/1802.01528.pdf)
+
+[How Convolutional Neural Networks learn](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1)
+
 https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
 
 [neural network embeddings explained](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526)
