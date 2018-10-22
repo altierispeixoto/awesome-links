@@ -1,4 +1,8 @@
 
+http://www.cs.utsa.edu/~bylander/cs6243/cohen95ripper.pdf
+
+https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf
+
 [Math behind CNN](https://arxiv.org/pdf/1802.01528.pdf)
 
 [How Convolutional Neural Networks learn](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1)
