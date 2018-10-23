@@ -1,3 +1,4 @@
+https://physics.bu.edu/~pankajm/MLnotebooks.html
 
 http://www.cs.utsa.edu/~bylander/cs6243/cohen95ripper.pdf
 
