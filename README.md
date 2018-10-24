@@ -1,3 +1,12 @@
+
+https://www.analyticsvidhya.com/blog/2018/10/understanding-inception-network-from-scratch/
+
+https://www.analyticsvidhya.com/blog/2018/10/comprehensive-overview-machine-learning-part-1/
+
+https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/
+
+https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/
+
 https://physics.bu.edu/~pankajm/MLnotebooks.html
 
 http://www.cs.utsa.edu/~bylander/cs6243/cohen95ripper.pdf
