@@ -1,4 +1,6 @@
 
+https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/machine_learning.html
+
 https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-classification-problems/
 
 https://www.analyticsvidhya.com/blog/2018/10/understanding-inception-network-from-scratch/
