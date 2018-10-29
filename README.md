@@ -1,3 +1,5 @@
+https://seeing-theory.brown.edu/
+
 https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
 
 https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/machine_learning.html
