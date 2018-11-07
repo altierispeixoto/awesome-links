@@ -1,3 +1,9 @@
+Estatística
+http://greenteapress.com/thinkstats2/thinkstats2.pdf  
+https://github.com/AllenDowney/ThinkStats2  
+
+
+
 https://pt.wikipedia.org/wiki/Quarteto_de_Anscombe
 
 https://paulovasconcellos.com.br/10-bibliotecas-de-data-science-para-python-que-ningu%C3%A9m-te-conta-706ec3c4fcef
