@@ -1,3 +1,7 @@
+http://www2.cs.uregina.ca/~dbd/cs831/notes/neural-networks/neuroevolution/
+http://www2.cs.uregina.ca/~dbd/cs831/notes/neural-networks/conv-neural-networks/
+
+
 Estatística
 http://greenteapress.com/thinkstats2/thinkstats2.pdf  
 https://github.com/AllenDowney/ThinkStats2  
