@@ -1,3 +1,5 @@
+https://arxiv.org/pdf/1712.09926.pdf
+
 https://www.kaggle.com/kmader/inceptionv3-for-retinopathy-gpu-hr
 
 https://bigdl-project.github.io/
