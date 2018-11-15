@@ -1,3 +1,7 @@
+https://github.com/deepmind/graph_nets
+
+https://arxiv.org/pdf/1806.01261.pdf
+
 https://arxiv.org/pdf/1712.09926.pdf
 
 https://www.kaggle.com/kmader/inceptionv3-for-retinopathy-gpu-hr
