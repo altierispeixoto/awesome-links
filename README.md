@@ -1,3 +1,5 @@
+https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubuntu-79306e4ac04e
+
 https://github.com/deepmind/graph_nets
 
 https://arxiv.org/pdf/1806.01261.pdf
