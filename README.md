@@ -1,3 +1,7 @@
+https://www.floydhub.com
+
+https://github.com/pandas-profiling/pandas-profiling
+
 https://medium.com/@rogerxujiang/setting-up-a-gpu-instance-for-deep-learning-on-aws-795343e16e44
 
 https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubuntu-79306e4ac04e
