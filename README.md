@@ -1,3 +1,5 @@
+https://towardsdatascience.com/deep-learning-performance-cheat-sheet-21374b9c4f45
+
 https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8
 
 http://www.feat.engineering/
