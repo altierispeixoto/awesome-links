@@ -1,3 +1,5 @@
+http://cs231n.github.io/
+
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
 
 https://towardsdatascience.com/deep-learning-performance-cheat-sheet-21374b9c4f45
