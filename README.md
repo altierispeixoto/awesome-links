@@ -1,3 +1,5 @@
+https://www.reddit.com/r/dataisbeautiful/comments/a4l0ta/the_unit_circle_oc/?st=JPILFYS2&sh=250ef731
+
 http://cs231n.github.io/
 
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
