@@ -1,3 +1,7 @@
+https://towardsdatascience.com/the-price-is-right-pricing-strategy-part-1-d4952dc5f5dd
+
+https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d
+
 https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
 
 https://betterexplained.com/articles/matrix-multiplication/
