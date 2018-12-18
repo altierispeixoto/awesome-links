@@ -1,3 +1,5 @@
+https://betterexplained.com/articles/matrix-multiplication/
+
 https://paperswithcode.com/
 
 http://www.datasus.gov.br/cid10/V2008/cid10.htm
