@@ -1,3 +1,7 @@
+https://snap.stanford.edu/data/
+
+https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279
+
 https://towardsdatascience.com/the-price-is-right-pricing-strategy-part-1-d4952dc5f5dd
 
 https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d
