@@ -1,3 +1,5 @@
+https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html
+
 https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
 
 https://www.business-science.io/business/2017/11/28/customer_churn_analysis_keras.html
