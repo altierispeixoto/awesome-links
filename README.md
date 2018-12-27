@@ -1,3 +1,5 @@
+https://www.business-science.io/business/2017/11/28/customer_churn_analysis_keras.html
+
 https://snap.stanford.edu/data/
 
 https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279
