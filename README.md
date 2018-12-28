@@ -1,3 +1,7 @@
+http://www.deeplearningbook.org/
+
+https://christophm.github.io/interpretable-ml-book/
+
 http://fa.bianp.net/teaching/2018/eecs227at/
 
 https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html
