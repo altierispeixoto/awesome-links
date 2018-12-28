@@ -1,3 +1,5 @@
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+
 http://www.deeplearningbook.org/
 
 https://christophm.github.io/interpretable-ml-book/
