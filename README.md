@@ -1,3 +1,5 @@
+http://fa.bianp.net/teaching/2018/eecs227at/
+
 https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html
 
 https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
