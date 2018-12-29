@@ -1,3 +1,5 @@
+https://www.cs.cornell.edu/jeh/book.pdf
+
 http://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/
 
 http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
