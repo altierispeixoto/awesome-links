@@ -1,3 +1,5 @@
+https://serialmentor.com/dataviz/
+
 https://explained.ai/matrix-calculus/index.html
 
 https://www.cs.cornell.edu/jeh/book.pdf
