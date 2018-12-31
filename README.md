@@ -1,3 +1,5 @@
+https://explained.ai/matrix-calculus/index.html
+
 https://www.cs.cornell.edu/jeh/book.pdf
 
 http://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/
