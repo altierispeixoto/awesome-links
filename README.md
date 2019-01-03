@@ -1,3 +1,5 @@
+https://www.datascience.com/blog/fraud-detection-with-tensorflow
+
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 
 https://www.datascience.com/resources/notebooks/python-dynamic-pricing
