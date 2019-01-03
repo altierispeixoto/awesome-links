@@ -1,3 +1,7 @@
+https://www.datascience.com/blog/python-anomaly-detection
+
+https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials
+
 https://www.datascience.com/blog/churn-prediction-python
 
 https://www.datascience.com/blog/fraud-detection-with-tensorflow
