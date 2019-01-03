@@ -1,3 +1,5 @@
+https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
+
 https://www.datascience.com/resources/notebooks/python-dynamic-pricing
 
 https://serialmentor.com/dataviz/
