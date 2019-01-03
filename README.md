@@ -1,3 +1,5 @@
+https://www.datascience.com/resources/notebooks/python-dynamic-pricing
+
 https://serialmentor.com/dataviz/
 
 https://explained.ai/matrix-calculus/index.html
