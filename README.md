@@ -1,3 +1,8 @@
+
+https://towardsdatascience.com/maximum-likelihood-estimation-in-real-life-optimizing-study-time-d5cc083d25b4
+
+https://towardsdatascience.com/custom-tensorflow-loss-functions-for-advanced-machine-learning-f13cdd1d188a
+
 https://www.datascience.com/blog/python-anomaly-detection
 
 https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials
