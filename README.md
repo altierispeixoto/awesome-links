@@ -1,4 +1,6 @@
 
+https://ml-cheatsheet.readthedocs.io/en/latest/index.html
+
 https://towardsdatascience.com/maximum-likelihood-estimation-in-real-life-optimizing-study-time-d5cc083d25b4
 
 https://towardsdatascience.com/custom-tensorflow-loss-functions-for-advanced-machine-learning-f13cdd1d188a
