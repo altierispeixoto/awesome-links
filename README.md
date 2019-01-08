@@ -1,3 +1,4 @@
+https://resources.zilliant.com/authors/amir-meimand
 
 https://distill.pub/
 
