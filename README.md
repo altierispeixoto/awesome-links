@@ -1,3 +1,7 @@
+
+https://www.youtube.com/watch?v=EUQY3hL38cw -- hierarquical clustering
+https://www.youtube.com/watch?v=3vHqmPF4VBA -- k-means
+
 https://resources.zilliant.com/authors/amir-meimand
 
 https://distill.pub/
