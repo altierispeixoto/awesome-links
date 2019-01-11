@@ -1,5 +1,6 @@
 
-https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf
+https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf  
+
 https://www.youtube.com/watch?v=EUQY3hL38cw -- hierarquical clustering  
 
 https://www.youtube.com/watch?v=3vHqmPF4VBA -- k-means  
@@ -337,3 +338,5 @@ https://github.com/OpenGeoscience/geonotebook
 https://github.com/locationtech-labs/geopyspark
 http://geoserver.org/
 https://github.com/locationtech/geotrellis
+
+https://eastus2.azuredatabricks.net
