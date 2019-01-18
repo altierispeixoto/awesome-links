@@ -1,4 +1,11 @@
 
+
+https://pyod.readthedocs.io/en/latest/index.html  
+
+http://www.scikit-yb.org/en/latest/  
+
+http://hyperopt.github.io/hyperopt/ 
+
 https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf  
 
 https://www.youtube.com/watch?v=EUQY3hL38cw -- hierarquical clustering  
