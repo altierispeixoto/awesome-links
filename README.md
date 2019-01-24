@@ -1,3 +1,5 @@
+https://scikit-learn.org/stable/modules/outlier_detection.html
+
 https://ianlondon.github.io/blog/encoding-cyclical-features-24hour-time/
 
 https://labs.spotify.com/2014/09/16/squad-health-check-model/
