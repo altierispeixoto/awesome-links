@@ -1,3 +1,5 @@
+https://ianlondon.github.io/blog/encoding-cyclical-features-24hour-time/
+
 https://labs.spotify.com/2014/09/16/squad-health-check-model/
 
 https://medium.com/@Chamanijks/k-prototype-in-clustering-mixed-attributes-e6907db91914
