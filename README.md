@@ -1,3 +1,5 @@
+http://sisne.org/Disciplinas/Grad/ProbEstat2/aula15.pdf
+
 https://scikit-learn.org/stable/modules/outlier_detection.html
 
 https://ianlondon.github.io/blog/encoding-cyclical-features-24hour-time/
