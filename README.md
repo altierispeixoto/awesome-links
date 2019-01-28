@@ -1,3 +1,5 @@
+https://revistas.pucsp.br/index.php/kairos/article/viewFile/26092/18731
+
 http://sisne.org/Disciplinas/Grad/ProbEstat2/aula15.pdf
 
 https://scikit-learn.org/stable/modules/outlier_detection.html
