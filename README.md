@@ -1,3 +1,5 @@
+http://www.cs.columbia.edu/~hila/clustering.pdf
+
 https://revistas.pucsp.br/index.php/kairos/article/viewFile/26092/18731
 
 https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/
