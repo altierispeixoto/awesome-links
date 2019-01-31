@@ -1,3 +1,5 @@
+https://www.linkedin.com/pulse/deeptech-ai-drug-discovery-margaretta-colangelo/
+
 http://www.cs.columbia.edu/~hila/clustering.pdf
 
 https://revistas.pucsp.br/index.php/kairos/article/viewFile/26092/18731
