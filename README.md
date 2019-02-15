@@ -1,3 +1,5 @@
+https://support.minitab.com/pt-br/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/linear-nonlinear-and-monotonic-relationships/
+
 https://www.datasciencecentral.com/profiles/blogs/matrix-multiplication-in-neural-networks
 
 https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/enterprise-office/public/Table-of-Disruptive-Technologies.pdf?fbclid=IwAR0_lHxpYov7DzeFOfrJKWAOBAYikfkE-Uzzf3FVFwYs7XpXyHa7MOel2tQ
