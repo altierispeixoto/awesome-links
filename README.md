@@ -1,3 +1,5 @@
+http://introtodeeplearning.com/
+
 https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/
 
 https://support.minitab.com/pt-br/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/linear-nonlinear-and-monotonic-relationships/
