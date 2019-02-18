@@ -1,3 +1,5 @@
+https://homepages.inf.ed.ac.uk/rbf/BOOKS/JAIN/Clustering_Jain_Dubes.pdf
+
 http://introtodeeplearning.com/
 
 https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/
