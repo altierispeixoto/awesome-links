@@ -1,3 +1,5 @@
+https://www.math.uh.edu/~rohop/fall_06/
+
 https://homepages.inf.ed.ac.uk/rbf/BOOKS/JAIN/Clustering_Jain_Dubes.pdf
 
 http://introtodeeplearning.com/
