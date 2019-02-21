@@ -1,3 +1,5 @@
+https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html
+
 https://www.math.uh.edu/~rohop/fall_06/
 
 https://homepages.inf.ed.ac.uk/rbf/BOOKS/JAIN/Clustering_Jain_Dubes.pdf
