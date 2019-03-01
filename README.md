@@ -1,3 +1,7 @@
+https://www.kaggle.com/devilears/siraj-s-steps-lstm
+
+https://towardsdatascience.com/paper-summary-neural-ordinary-differential-equations-37c4e52df128
+
 https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html
 
 https://www.math.uh.edu/~rohop/fall_06/
