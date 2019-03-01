@@ -1,3 +1,8 @@
+
+https://github.com/JSeam2/Neural-Ordinary-Differential-Equations
+
+https://github.com/HIPS/autograd
+
 https://www.kaggle.com/devilears/siraj-s-steps-lstm
 
 https://towardsdatascience.com/paper-summary-neural-ordinary-differential-equations-37c4e52df128
