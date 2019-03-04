@@ -1,7 +1,7 @@
 # Awesome Links
 
 [paperswithcode](https://paperswithcode.com/)
-[stanford.edu](https://stanford.edu/~shervine/teaching/
+[stanford.edu](https://stanford.edu/~shervine/teaching/)
 
 # ML Introduction
 
@@ -234,7 +234,7 @@ https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d9
 
 
 
-
+## TODO : CLASSIFY
 
 https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubuntu-79306e4ac04e
 
@@ -314,16 +314,6 @@ http://karpathy.github.io/2016/05/31/rl/
 
 [DBCV - Python implementation of Density-Based Clustering Validation](https://github.com/christopherjenness/DBCV)
 
-
-
-
-
- 
-
-
-
-
-## TODO
 
 
 https://www.youtube.com/watch?v=6HI47rcOiAE
