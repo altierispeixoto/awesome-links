@@ -1,3 +1,4 @@
+https://vas3k.com/blog/machine_learning/
 
 https://github.com/JSeam2/Neural-Ordinary-Differential-Equations
 
