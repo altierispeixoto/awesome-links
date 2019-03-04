@@ -70,7 +70,7 @@
 
 [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
 
-[Deep Learning: Which Loss and Activation Functions should I use?] (https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
+[Deep Learning: Which Loss and Activation Functions should I use?](https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
 
 [Deep Learning Performance Cheat Sheet
 Simple and complex tricks that can help you boost your deep learning models accuracy](https://towardsdatascience.com/deep-learning-performance-cheat-sheet-21374b9c4f45)
