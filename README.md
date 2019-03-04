@@ -128,7 +128,7 @@ Autograd can automatically differentiate native Python and Numpy code. It can ha
 
 [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf)
  
- [ANÁLISE E SÍNTESE DE ESTRATÉGIAS DEAPRENDIZADO PARA REDES NEURAIS ARTIFICIAIS](ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/theses/lnunes_mest/indice.pdf)
+[ANÁLISE E SÍNTESE DE ESTRATÉGIAS DEAPRENDIZADO PARA REDES NEURAIS ARTIFICIAIS](ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/theses/lnunes_mest/indice.pdf)
 
 [7 Practical Deep Learning Tips](https://towardsdatascience.com/7-practical-deep-learning-tips-97a9f514100e)
 
