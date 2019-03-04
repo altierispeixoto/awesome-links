@@ -1,5 +1,7 @@
 # Awesome Links
 
+[paperswithcode](https://paperswithcode.com/)
+[stanford.edu](https://stanford.edu/~shervine/teaching/
 
 # ML Introduction
 
@@ -23,17 +25,59 @@
 
 [Dealing with Imbalanced Classes in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
 
+[8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
+
 [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+
+[A guide for using the Wavelet Transform in Machine Learning](http://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/)
+
+[A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
+
+[A Programmer’s Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/)
+
+# Data Science Introduction
+
+[Introduction to Correlation](https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials)
+
+[Introduction to Anomaly Detection](https://www.datascience.com/blog/python-anomaly-detection)
+
+[Implementing a Principal Component Analysis (PCA) – in Python, step by step](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
+
+[Principal Component Analysis - Explained Visually](http://setosa.io/ev/principal-component-analysis/)
+
+[Eigenvectors and Eigenvalues - Explained Visually](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
+
+[Significância do Coeficiente de Correlação](http://sisne.org/Disciplinas/Grad/ProbEstat2/aula15.pdf)
+
+[Encoding cyclical continuous features - 24-hour time](https://ianlondon.github.io/blog/encoding-cyclical-features-24hour-time/)
+
+
 
 # Deep Learning
 
 [Geometric Deep Learning](http://geometricdeeplearning.com/)
 
+[playground.tensorflow](http://playground.tensorflow.org/)
+
+[Convolutional Neural Networks from the ground up](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1)
+
+[A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+
+[Build a Recurrent Neural Network from Scratch in Python – An Essential Read for Data Scientists](https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/)
+
+[Matrix Multiplication in Neural Networks - IMAGE](https://www.datasciencecentral.com/profiles/blogs/matrix-multiplication-in-neural-networks)
+
+[The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
+
+[Deep Learning: Which Loss and Activation Functions should I use?] (https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
+
+[Deep Learning Performance Cheat Sheet
+Simple and complex tricks that can help you boost your deep learning models accuracy](https://towardsdatascience.com/deep-learning-performance-cheat-sheet-21374b9c4f45)
+
 # Tools
 
 [Autograd](https://github.com/HIPS/autograd)
 Autograd can automatically differentiate native Python and Numpy code. It can handle a large subset of Python's features, including loops, ifs, recursion and closures, and it can even take derivatives of derivatives of derivatives. It supports reverse-mode differentiation (a.k.a. backpropagation), which means it can efficiently take gradients of scalar-valued functions with respect to array-valued arguments, as well as forward-mode differentiation, and the two can be composed arbitrarily. The main intended application of Autograd is gradient-based optimization.
-
 
 [geotrellis](http://geotrellis.io) is a geographic data processing engine for high performance applications.
 
@@ -61,6 +105,12 @@ Autograd can automatically differentiate native Python and Numpy code. It can ha
 
 [PyOD](https://pyod.readthedocs.io/en/latest/index.html)
 
+[geojson](http://geojson.io)
+
+[AWS Instances](https://www.ec2instances.info)
+
+[floydhub](https://www.floydhub.com/)
+
 # Papers
  
 [Neural Ordinary Differential Equations](https://github.com/JSeam2/Neural-Ordinary-Differential-Equations)
@@ -79,15 +129,7 @@ Autograd can automatically differentiate native Python and Numpy code. It can ha
  
  [ANÁLISE E SÍNTESE DE ESTRATÉGIAS DEAPRENDIZADO PARA REDES NEURAIS ARTIFICIAIS](ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/theses/lnunes_mest/indice.pdf)
 
-[Implementing a Principal Component Analysis (PCA) – in Python, step by step](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
-
-[Principal Component Analysis - Explained Visually](http://setosa.io/ev/principal-component-analysis/)
-
 [7 Practical Deep Learning Tips](https://towardsdatascience.com/7-practical-deep-learning-tips-97a9f514100e)
-
-[Eigenvectors and Eigenvalues - Explained Visually](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
-
-[Significância do Coeficiente de Correlação](http://sisne.org/Disciplinas/Grad/ProbEstat2/aula15.pdf)
 
 [A Survey of Correlation Clustering](http://www.cs.columbia.edu/~hila/clustering.pdf)
 
@@ -95,6 +137,11 @@ Autograd can automatically differentiate native Python and Numpy code. It can ha
 
 [Fundamentals of Recurrent Neural Network (RNN)
 and Long Short-Term Memory (LSTM) Network](https://arxiv.org/pdf/1808.03314.pdf)
+
+[Math behind CNN](https://arxiv.org/pdf/1802.01528.pdf)
+
+
+[DEEP CONVOLUTIONAL NEURAL NETWORK DESIGN PATTERNS](https://arxiv.org/pdf/1611.00847v2.pdf)
 
 # Books
 
@@ -118,6 +165,12 @@ and Long Short-Term Memory (LSTM) Network](https://arxiv.org/pdf/1808.03314.pdf)
 
 [Machine Learning Yarning - Andrew Ng](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf)
 
+[Foundations of Data Science] (https://www.cs.cornell.edu/jeh/book.pdf)
+
+[Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+
+[Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
+
 # Courses
 
 [fast.ai](http://course18.fast.ai/)
@@ -131,141 +184,57 @@ and Long Short-Term Memory (LSTM) Network](https://arxiv.org/pdf/1808.03314.pdf)
 [Introduction to Deep Learning: MIT's introductory course on deep learning methods and applications.](http://introtodeeplearning.com/)
 
 
-
 # Datasets
 
 [geodata-br](https://github.com/tbrugz/geodata-br)
 
+[Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
 
-## TODO
-
-[playground.tensorflow](http://playground.tensorflow.org/)
-
-https://www.youtube.com/watch?v=6HI47rcOiAE
-
-[Introduction to Correlation](https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials)
-
-[Introduction to Anomaly Detection](https://www.datascience.com/blog/python-anomaly-detection)
-
-
-
-http://geojson.io
-
-### AWS Instances 
-https://www.ec2instances.info
-
-https://www.datasciencecentral.com/profiles/blogs/matrix-multiplication-in-neural-networks
-
-
-https://support.minitab.com/pt-br/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/linear-nonlinear-and-monotonic-relationships/
-
-https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/enterprise-office/public/Table-of-Disruptive-Technologies.pdf?fbclid=IwAR0_lHxpYov7DzeFOfrJKWAOBAYikfkE-Uzzf3FVFwYs7XpXyHa7MOel2tQ
-
-https://www.linkedin.com/pulse/deeptech-ai-drug-discovery-margaretta-colangelo/
-
-https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/
-
-
-https://ianlondon.github.io/blog/encoding-cyclical-features-24hour-time/
-
-https://labs.spotify.com/2014/09/16/squad-health-check-model/
-
-https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1
-
-https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+# Markov Chains
 
 [Markov Chains in Python: Beginner Tutorial](https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial)
 
 [Markov Chains](http://setosa.io/ev/markov-chains/)
 
+[Processos de Decisão de Markov: um tutorial](http://www.seer.ufrgs.br/rita/article/viewFile/rita_v14_n2_p133-179/3544)
 
-http://revista.usereserva.com/2016/01/05/decida-como-voce-quer-viver/
+[The 50 Best Public Datasets for Machine Learning](https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
 
-[Os Tipos de Engenheiros de Dados](https://medium.com/data-hackers/os-tipos-de-engenheiros-de-dados-c3674b4d74d1)
+# Graph Mining
 
-http://bytepawn.com/
+[Anomaly, Event, and Fraud Detection in Large Graph Datasets](https://www.andrew.cmu.edu/user/lakoglu/wsdm13/)
 
-[24 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
-https://www.youtube.com/watch?v=EUQY3hL38cw -- hierarquical clustering  
-
-https://www.youtube.com/watch?v=3vHqmPF4VBA -- k-means  
-
-https://distill.pub/
-
-https://medium.com/@Chamanijks/k-prototype-in-clustering-mixed-attributes-e6907db91914
-
-https://resources.zilliant.com/authors/amir-meimand
-
-https://towardsdatascience.com/maximum-likelihood-estimation-in-real-life-optimizing-study-time-d5cc083d25b4
-
+# Optimization
+[A birds-eye view of optimization algorithms](http://fa.bianp.net/teaching/2018/eecs227at/)
 
 --------------------------------
 
+# Cases
 
-https://www.datascience.com/blog/churn-prediction-python
+## Pricing 
+
+[The Price is Right: Pricing Strategy — Part 1](https://towardsdatascience.com/the-price-is-right-pricing-strategy-part-1-d4952dc5f5dd)
+
+[Machine Learning for Retail Price Recommendation with Python](https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d)
+
+[Developing a Pricing Strategy to Maximize Revenue](https://www.datascience.com/resources/notebooks/python-dynamic-pricing)
+
+
+## Churning
+
+[Introduction to Churn Prediction in Python](https://www.datascience.com/blog/churn-prediction-python)
+
+
+## Fraud Detection
 
 https://www.datascience.com/blog/fraud-detection-with-tensorflow
 
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 
-https://www.datascience.com/resources/notebooks/python-dynamic-pricing
 
-https://serialmentor.com/dataviz/
 
-https://explained.ai/matrix-calculus/index.html
 
-https://www.cs.cornell.edu/jeh/book.pdf
-
-http://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/
-
-http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
-
-http://www.deeplearningbook.org/
-
-https://christophm.github.io/interpretable-ml-book/
-
-http://fa.bianp.net/teaching/2018/eecs227at/
-
-https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html
-
-https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
-
-https://www.business-science.io/business/2017/11/28/customer_churn_analysis_keras.html
-
-https://snap.stanford.edu/data/
-
-https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279
-
-https://towardsdatascience.com/the-price-is-right-pricing-strategy-part-1-d4952dc5f5dd
-
-https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d
-
-https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
-
-https://betterexplained.com/articles/matrix-multiplication/
-
-https://paperswithcode.com/
-
-http://www.datasus.gov.br/cid10/V2008/cid10.htm
-
-https://www.reddit.com/r/dataisbeautiful/comments/a4l0ta/the_unit_circle_oc/?st=JPILFYS2&sh=250ef731
-
-http://cs231n.github.io/
-
-https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#
-
-https://towardsdatascience.com/deep-learning-performance-cheat-sheet-21374b9c4f45
-
-https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8
-
-http://www.feat.engineering/
-
-https://www.floydhub.com
-
-https://github.com/pandas-profiling/pandas-profiling
-
-https://medium.com/@rogerxujiang/setting-up-a-gpu-instance-for-deep-learning-on-aws-795343e16e44
 
 https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubuntu-79306e4ac04e
 
@@ -317,7 +286,7 @@ http://www.cs.utsa.edu/~bylander/cs6243/cohen95ripper.pdf
 
 https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf
 
-[Math behind CNN](https://arxiv.org/pdf/1802.01528.pdf)
+
 
 [How Convolutional Neural Networks learn](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1)
 
@@ -336,7 +305,6 @@ http://aqibsaeed.github.io
 
 http://karpathy.github.io/2016/05/31/rl/
 
-[Processos de Decisão de Markov: um tutorial](http://www.seer.ufrgs.br/rita/article/viewFile/rita_v14_n2_p133-179/3544)
 
 [Where did the least-square come from?](https://towardsdatascience.com/where-did-the-least-square-come-from-3f1abc7f7caf)
 
@@ -345,10 +313,6 @@ http://karpathy.github.io/2016/05/31/rl/
 [A -Deviation Density Based Clustering Algorithm](https://www.hindawi.com/journals/mpe/2018/3742048/)
 
 [DBCV - Python implementation of Density-Based Clustering Validation](https://github.com/christopherjenness/DBCV)
-
-[DEEP CONVOLUTIONAL NEURAL NETWORK DESIGN PATTERNS](https://arxiv.org/pdf/1611.00847v2.pdf)
-
-[Anomaly, Event, and Fraud Detection in Large Graph Datasets](https://www.andrew.cmu.edu/user/lakoglu/wsdm13/)
 
 
 
@@ -359,8 +323,42 @@ http://karpathy.github.io/2016/05/31/rl/
 
 
 
+## TODO
 
 
+https://www.youtube.com/watch?v=6HI47rcOiAE
+
+
+https://support.minitab.com/pt-br/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/linear-nonlinear-and-monotonic-relationships/
+
+https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/enterprise-office/public/Table-of-Disruptive-Technologies.pdf?fbclid=IwAR0_lHxpYov7DzeFOfrJKWAOBAYikfkE-Uzzf3FVFwYs7XpXyHa7MOel2tQ
+
+https://www.linkedin.com/pulse/deeptech-ai-drug-discovery-margaretta-colangelo/
+
+
+
+https://labs.spotify.com/2014/09/16/squad-health-check-model/
+
+
+http://revista.usereserva.com/2016/01/05/decida-como-voce-quer-viver/
+
+[Os Tipos de Engenheiros de Dados](https://medium.com/data-hackers/os-tipos-de-engenheiros-de-dados-c3674b4d74d1)
+
+http://bytepawn.com/
+
+[24 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
+
+https://www.youtube.com/watch?v=EUQY3hL38cw -- hierarquical clustering  
+
+https://www.youtube.com/watch?v=3vHqmPF4VBA -- k-means  
+
+https://distill.pub/
+
+https://medium.com/@Chamanijks/k-prototype-in-clustering-mixed-attributes-e6907db91914
+
+https://resources.zilliant.com/authors/amir-meimand
+
+https://towardsdatascience.com/maximum-likelihood-estimation-in-real-life-optimizing-study-time-d5cc083d25b4
 
 
 
