@@ -166,7 +166,7 @@ and Long Short-Term Memory (LSTM) Network](https://arxiv.org/pdf/1808.03314.pdf)
 
 [Machine Learning Yarning - Andrew Ng](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf)
 
-[Foundations of Data Science] (https://www.cs.cornell.edu/jeh/book.pdf)
+[Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
 
 [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 
