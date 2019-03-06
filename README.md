@@ -184,6 +184,7 @@ and Long Short-Term Memory (LSTM) Network](https://arxiv.org/pdf/1808.03314.pdf)
 
 [Introduction to Deep Learning: MIT's introductory course on deep learning methods and applications.](http://introtodeeplearning.com/)
 
+[Dremio University](https://university.dremio.com/)
 
 # Datasets
 
