@@ -393,8 +393,11 @@ https://towardsdatascience.com/maximum-likelihood-estimation-in-real-life-optimi
 
 
 
-
-
+undersampling / oversampling
+validation set
+feature selection
+feature engineering
+params tunning
 
 
 
