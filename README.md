@@ -186,6 +186,14 @@ and Long Short-Term Memory (LSTM) Network](https://arxiv.org/pdf/1808.03314.pdf)
 
 [Dremio University](https://university.dremio.com/)
 
+[kaggle - Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
+
+[kaggle - Machine Learning](https://www.kaggle.com/learn/machine-learning/)
+
+[kaggle - Deep Learning](https://www.kaggle.com/learn/deep-learning)
+
+[kaggle - Embeddings](https://www.kaggle.com/learn/embeddings)
+
 # Datasets
 
 [geodata-br](https://github.com/tbrugz/geodata-br)
