@@ -112,6 +112,27 @@ Autograd can automatically differentiate native Python and Numpy code. It can ha
 
 [MapD - GPU Database](https://www.mapd.com/)
 
+[inspyred](https://pythonhosted.org/inspyred/)
+
+[pagmo2](https://esa.github.io/pagmo2/index.html)
+
+[DEAP](https://deap.readthedocs.io/en/master/)
+
+[scikit-learn](https://scikit-learn.org/)
+
+[scikit-image](https://scikit-image.org/)
+
+[scipy](https://www.scipy.org/)
+
+[tensorflow](https://www.tensorflow.org/)
+
+[keras](https://keras.io/)
+
+[pytorch](https://pytorch.org/)
+
+[numba](http://numba.pydata.org/)
+
+
 # Papers
  
 [Neural Ordinary Differential Equations](https://github.com/JSeam2/Neural-Ordinary-Differential-Equations)
