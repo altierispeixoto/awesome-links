@@ -110,6 +110,8 @@ Autograd can automatically differentiate native Python and Numpy code. It can ha
 
 [BayesianOptimization](https://github.com/fmfn/BayesianOptimization)This is a constrained global optimization package built upon bayesian inference and gaussian process, that attempts to find the maximum value of an unknown function in as few iterations as possible. This technique is particularly suited for optimization of high cost functions, situations where the balance between exploration and exploitation is important.
 
+[gplearn](https://gplearn.readthedocs.io/en/stable/intro.html)extends the scikit-learn machine learning library to perform Genetic Programming (GP) with symbolic regression.
+
 [geojson](http://geojson.io)
 
 [AWS Instances](https://www.ec2instances.info)
