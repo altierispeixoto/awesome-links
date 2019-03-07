@@ -88,29 +88,29 @@ Autograd can automatically differentiate native Python and Numpy code. It can ha
 
 [Kepler.gl](http://kepler.gl/#/) is a powerful open source geospatial analysis tool for large-scale data sets.
 
-[LIME](https://github.com/marcotcr/lime)
+[LIME](https://github.com/marcotcr/lime) This project is about explaining what machine learning classifiers (or models) are doing. At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images, with a package called lime (short for local interpretable model-agnostic explanations). Lime is based on the work presented in this paper (bibtex here for citation). Here is a link to the promo video:
 
-[shap](https://github.com/slundberg/shap)
+[shap](https://github.com/slundberg/shap) SHAP (SHapley Additive exPlanations) is a unified approach to explain the output of any machine learning model. SHAP connects game theory with local explanations, uniting several previous methods [1-7] and representing the only possible consistent and locally accurate additive feature attribution method based on expectations (see the SHAP NIPS paper for details).
 
-[TransmogrifAI - Automated machine learning for structured data.](https://transmogrif.ai/)
+[TransmogrifAI - Automated machine learning for structured data.](https://transmogrif.ai/) TransmogrifAI (pronounced trans-mog-ri-phi) is an end-to-end AutoML library for structured data written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation, and an API that enforces compile-time type-safety, modularity, and reuse. Through automation, it achieves accuracies close to hand-tuned models with almost 100x reduction in time. 
 
-[Gpu Analytics Initiative](http://gpuopenanalytics.com/#/)
+[Neupy - Cheat sheet](http://neupy.com/pages/cheatsheet.html) NeuPy is a python library for prototyping and building neural networks. NeuPy uses Tensorflow as a computational backend for deep learning models.
 
-[MapD - GPU Database](https://www.mapd.com/)
+[Hyperopt](http://hyperopt.github.io/hyperopt/) is a Python library for optimizing over awkward search spaces with real-valued, discrete, and conditional dimensions.
 
-[Neupy - Cheat sheet](http://neupy.com/pages/cheatsheet.html)
+[Yellowbrick](http://www.scikit-yb.org/en/latest/) is a suite of visual diagnostic tools called “Visualizers” that extend the Scikit-Learn API to allow human steering of the model selection process. In a nutshell, Yellowbrick combines scikit-learn with matplotlib in the best tradition of the scikit-learn documentation, but to produce visualizations for your models!
 
-[Hyperopt](http://hyperopt.github.io/hyperopt/)
-
-[Yellowbrick](http://www.scikit-yb.org/en/latest/)
-
-[PyOD](https://pyod.readthedocs.io/en/latest/index.html)
+[PyOD](https://pyod.readthedocs.io/en/latest/index.html) is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. This exciting yet challenging field is commonly referred as Outlier Detection or Anomaly Detection. Since 2017, PyOD [AZNL19] has been successfully used in various academic researches and commercial products [ARSLS19][AZH18a][AZH18b][AZNHL19]
 
 [geojson](http://geojson.io)
 
 [AWS Instances](https://www.ec2instances.info)
 
 [floydhub](https://www.floydhub.com/)
+
+[Gpu Analytics Initiative](http://gpuopenanalytics.com/#/)
+
+[MapD - GPU Database](https://www.mapd.com/)
 
 # Papers
  
