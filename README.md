@@ -102,6 +102,8 @@ Autograd can automatically differentiate native Python and Numpy code. It can ha
 
 [PyOD](https://pyod.readthedocs.io/en/latest/index.html) is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. This exciting yet challenging field is commonly referred as Outlier Detection or Anomaly Detection. Since 2017, PyOD [AZNL19] has been successfully used in various academic researches and commercial products [ARSLS19][AZH18a][AZH18b][AZNHL19]
 
+[LightGBM](https://github.com/Microsoft/LightGBM) A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(http://github.com/microsoft/dmtk) project of Microsoft.
+
 [geojson](http://geojson.io)
 
 [AWS Instances](https://www.ec2instances.info)
