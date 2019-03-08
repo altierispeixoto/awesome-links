@@ -142,6 +142,7 @@ Autograd can automatically differentiate native Python and Numpy code. It can ha
 
 [numba](http://numba.pydata.org/)
 
+[kepler-mapper](https://kepler-mapper.scikit-tda.org/examples.html)
 
 # Papers
  
