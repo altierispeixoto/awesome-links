@@ -250,6 +250,7 @@ and Long Short-Term Memory (LSTM) Network](https://arxiv.org/pdf/1808.03314.pdf)
 # Optimization
 [A birds-eye view of optimization algorithms](http://fa.bianp.net/teaching/2018/eecs227at/)
 
+[Solving the knapsack problem with a simple genetic algorithm](https://www.dataminingapps.com/2017/03/solving-the-knapsack-problem-with-a-simple-genetic-algorithm/)
 --------------------------------
 
 # Cases
