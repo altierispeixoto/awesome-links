@@ -204,6 +204,8 @@ and Long Short-Term Memory (LSTM) Network](https://arxiv.org/pdf/1808.03314.pdf)
 
 [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
 
+[Dive into Deep Learning](http://d2l.ai)
+
 # Courses
 
 [fast.ai](http://course18.fast.ai/)
