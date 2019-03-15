@@ -397,10 +397,7 @@ https://resources.zilliant.com/authors/amir-meimand
 https://towardsdatascience.com/maximum-likelihood-estimation-in-real-life-optimizing-study-time-d5cc083d25b4
 
 
-
-
-
-
+http://jmlr.org/papers/volume10/tuv09a/tuv09a.pdf
 
 
 
