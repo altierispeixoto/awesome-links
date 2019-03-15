@@ -399,7 +399,7 @@ https://towardsdatascience.com/maximum-likelihood-estimation-in-real-life-optimi
 
 http://jmlr.org/papers/volume10/tuv09a/tuv09a.pdf
 
-
+http://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/
 
  
 
