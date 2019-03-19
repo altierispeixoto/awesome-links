@@ -148,6 +148,8 @@ Autograd can automatically differentiate native Python and Numpy code. It can ha
 
 [kepler-mapper](https://kepler-mapper.scikit-tda.org/examples.html)
 
+[rapids](https://rapids.ai/) The RAPIDS suite of open source software libraries gives you the freedom to execute end-to-end data science and analytics pipelines entirely on GPUs. RAPIDS is incubated by NVIDIA® based on years of accelerated data science experience. RAPIDS relies on NVIDIA CUDA® primitives for low-level compute optimization, and exposes GPU parallelism and high-bandwidth memory speed through user-friendly Python interfaces.
+
 # Papers
  
 [Neural Ordinary Differential Equations](https://github.com/JSeam2/Neural-Ordinary-Differential-Equations)
