@@ -2,6 +2,8 @@
 
 Hands-On Machine Learning for Algorithmic Trading: Design and implement 
 
+http://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/
+
 http://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/
 
 [paperswithcode](https://paperswithcode.com/)
