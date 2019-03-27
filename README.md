@@ -10,6 +10,8 @@ http://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/
 
 [stanford.edu](https://stanford.edu/~shervine/teaching/)
 
+https://link.springer.com/mwg-internal/de5fs23hu73db/progress?id=vEwZfCNtpsmRUv_3GLjmQ2uA9TANp8FW9irUxJem7wk,&dl
+
 # ML Introduction
 
 [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
