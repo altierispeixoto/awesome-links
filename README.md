@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/
+
 Hands-On Machine Learning for Algorithmic Trading: Design and implement 
 
 http://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/
