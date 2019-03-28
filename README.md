@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/
+
 https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/
 
 Hands-On Machine Learning for Algorithmic Trading: Design and implement 
