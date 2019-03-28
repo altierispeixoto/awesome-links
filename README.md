@@ -162,6 +162,8 @@ https://scikit-multiflow.github.io/
 
 https://moa.cms.waikato.ac.nz/
 
+https://scikit-plot.readthedocs.io/en/stable/Quickstart.html
+
 # Papers
  
 [Neural Ordinary Differential Equations](https://github.com/JSeam2/Neural-Ordinary-Differential-Equations)
