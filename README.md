@@ -166,6 +166,8 @@ https://moa.cms.waikato.ac.nz/
 
 https://scikit-plot.readthedocs.io/en/stable/Quickstart.html
 
+https://mlbox.readthedocs.io/en/latest/
+
 # Papers
  
 [Neural Ordinary Differential Equations](https://github.com/JSeam2/Neural-Ordinary-Differential-Equations)
