@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://www.lip6.fr/actualite/personnes-fiche.php?ident=P641
+
 https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/
 
 https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/
