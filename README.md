@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://ecomfe.github.io/echarts-doc/public/en/index.html
+
 https://piratepeel.github.io/proximitynetwork.html
 
 https://arxiv.org/pdf/1710.04073.pdf
