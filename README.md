@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/
+
 http://d2l.ai/
 
 http://ccr.sigcomm.org/online/files/p83-keshavA.pdf
