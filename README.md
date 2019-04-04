@@ -1,5 +1,7 @@
 # Awesome Links
 
+http://d2l.ai/
+
 http://ccr.sigcomm.org/online/files/p83-keshavA.pdf
 
 https://www.avanwyk.com/an-overview-of-lightgbm/
