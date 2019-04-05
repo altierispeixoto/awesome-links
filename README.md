@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://www.bitfinex.com
+
 https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/
 
 http://d2l.ai/
