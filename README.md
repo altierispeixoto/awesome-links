@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://explained.ai/
+
 www.octavian.ai
 
 https://www.youtube.com/watch?v=IeaD0ZaUJ3Y
