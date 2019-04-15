@@ -1,5 +1,8 @@
 # Awesome Links
 
+https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
+https://machinelearningmastery.com/how-to-transform-data-to-fit-the-normal-distribution/
+
 https://explained.ai/
 
 www.octavian.ai
