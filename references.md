@@ -7,4 +7,4 @@
 ###### **[NEW ENGLAND COMPLEX SYSTEMS INSTITUTE](https://necsi.edu/):** provides various resources and papers.  
 
 ###### **PAPERS**
-###### **[Systemic delay propagation in the US airport network]** https://www.nature.com/articles/srep01159/  
+###### **[Systemic delay propagation in the US airport network]** (https://www.nature.com/articles/srep01159/)  
