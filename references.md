@@ -1,4 +1,4 @@
-#### ** COMPLEX NETWORKS**
+#### **COMPLEX NETWORKS**
 
 ###### **WEBSITES**
 
