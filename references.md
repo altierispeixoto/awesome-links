@@ -14,4 +14,4 @@
 ---
 ###### **PAPERS**
 ###### **[Systemic delay propagation in the US airport network]** (https://www.nature.com/articles/srep01159/)  
-###### **[Hierarchical structure and the prediction of missing links in networks](https://www.nature.com/articles/nature06830)
+###### **[Hierarchical structure and the prediction of missing links in networks]**(https://www.nature.com/articles/nature06830)
