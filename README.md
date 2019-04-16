@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+
 https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
 https://machinelearningmastery.com/how-to-transform-data-to-fit-the-normal-distribution/
 
