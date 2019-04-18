@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://medium.com/pizzadedados/utilizando-dados-abertos-e-ci%C3%AAncia-de-dados-na-mobilidade-urbana-371a4c591639
+
 https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
 
 https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
