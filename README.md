@@ -8,6 +8,8 @@ https://www.infoq.com/br/articles/machine-learning-learn-devops
 
 https://www.infoq.com/articles/book-review-accelerate   
 
+https://enterprisersproject.com/article/2019/2/ai-opportunity-how-to-identify-5-questions-ask  
+
 ##############
 
 http://www.ic.unicamp.br/~stolfi/cursos/MC358-2012-1-A/docs/apostila.pdf
