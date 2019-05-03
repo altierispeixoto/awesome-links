@@ -1,5 +1,15 @@
 # Awesome Links
 
+### para a palestra
+https://www.bbc.com/news/technology-45809919   
+https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction   
+
+https://www.infoq.com/br/articles/machine-learning-learn-devops
+
+https://www.infoq.com/articles/book-review-accelerate   
+
+##############
+
 http://www.ic.unicamp.br/~stolfi/cursos/MC358-2012-1-A/docs/apostila.pdf
 
 https://medium.com/pizzadedados/utilizando-dados-abertos-e-ci%C3%AAncia-de-dados-na-mobilidade-urbana-371a4c591639
