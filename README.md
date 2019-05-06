@@ -10,6 +10,8 @@ https://www.infoq.com/articles/book-review-accelerate
 
 https://enterprisersproject.com/article/2019/2/ai-opportunity-how-to-identify-5-questions-ask  
 
+https://enterprisersproject.com/sites/default/files/an_executives_guide_to_real_world_ai.pdf
+
 ##############
 
 http://www.ic.unicamp.br/~stolfi/cursos/MC358-2012-1-A/docs/apostila.pdf
