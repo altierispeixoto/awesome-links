@@ -14,6 +14,8 @@ https://enterprisersproject.com/sites/default/files/an_executives_guide_to_real_
 
 ##############
 
+https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada
+
 http://www.ic.unicamp.br/~stolfi/cursos/MC358-2012-1-A/docs/apostila.pdf
 
 https://medium.com/pizzadedados/utilizando-dados-abertos-e-ci%C3%AAncia-de-dados-na-mobilidade-urbana-371a4c591639
