@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://en.wikipedia.org/wiki/Precision_and_recall
+
 ### para a palestra
 https://www.bbc.com/news/technology-45809919   
 https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction   
