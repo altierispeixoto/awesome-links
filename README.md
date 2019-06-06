@@ -285,6 +285,8 @@ and Long Short-Term Memory (LSTM) Network](https://arxiv.org/pdf/1808.03314.pdf)
 
 [Dive into Deep Learning](http://d2l.ai)
 
+[Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+
 # Courses
 
 [fast.ai](http://course18.fast.ai/)
