@@ -1,5 +1,7 @@
 # Awesome Links
 
+http://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/
+
 https://en.wikipedia.org/wiki/Precision_and_recall
 
 ### para a palestra
