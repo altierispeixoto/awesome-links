@@ -1,6 +1,7 @@
 # Awesome Links
 
 http://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/
+http://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf
 
 https://en.wikipedia.org/wiki/Precision_and_recall
 
