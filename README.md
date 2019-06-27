@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://www.twosigma.com/insights/article/interpretability-methods-in-machine-learning-a-brief-survey/
+
 http://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/
 http://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf
 
