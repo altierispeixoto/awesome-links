@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://www.infoq.com/presentations/stripe-ml-models-fraud/
+
 http://www.cs.cornell.edu/courses/cs7792/2016fa/
 
 http://www.cs.cornell.edu/~adith/CfactSIGIR2016/
