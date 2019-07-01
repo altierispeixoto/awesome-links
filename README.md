@@ -1,5 +1,9 @@
 # Awesome Links
 
+http://www.cs.cornell.edu/courses/cs7792/2016fa/
+
+http://www.cs.cornell.edu/~adith/CfactSIGIR2016/
+
 https://www.youtube.com/watch?v=QWCSxAKR-h0
 
 https://www.twosigma.com/insights/article/interpretability-methods-in-machine-learning-a-brief-survey/
