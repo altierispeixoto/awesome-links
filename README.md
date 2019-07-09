@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://www.logicalclocks.com/feature-store/
+
 http://www.homepages.ucl.ac.uk/~ucgtrbd/talks/imperial_causality.pdf
 
 https://www.infoq.com/presentations/stripe-ml-models-fraud/
