@@ -1,5 +1,7 @@
 # Awesome Links
 
+Natalie Hockham: Machine learning with imbalanced data sets - https://www.youtube.com/watch?v=X9MZtvvQDR4
+
 https://www.biostat.wisc.edu/~page/rocpr.pdf
 
 https://mwburke.github.io/2018/11/26/probability-calibration.html
