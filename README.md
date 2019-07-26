@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://www.biostat.wisc.edu/~page/rocpr.pdf
+
 https://mwburke.github.io/2018/11/26/probability-calibration.html
 
 https://github.com/mwburke/population-stability-index
