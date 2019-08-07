@@ -1,5 +1,7 @@
 # Awesome Links
 
+http://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/en_Tanagra_Python_StatsModels.pdf
+
 Natalie Hockham: Machine learning with imbalanced data sets - https://www.youtube.com/watch?v=X9MZtvvQDR4
 
 https://www.biostat.wisc.edu/~page/rocpr.pdf
