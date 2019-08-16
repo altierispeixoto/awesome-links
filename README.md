@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://conlanscientific.com/posts/category/blog/post/avoiding-data-leakage-machine-learning/
+
 http://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/en_Tanagra_Python_StatsModels.pdf
 
 Natalie Hockham: Machine learning with imbalanced data sets - https://www.youtube.com/watch?v=X9MZtvvQDR4
