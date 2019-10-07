@@ -1,4 +1,6 @@
 # Awesome Links
+https://github.com/mikemull/Notebooks/blob/master/Kalman-Slides-PyDataChicago2016.ipynb
+
 
 https://conlanscientific.com/posts/category/blog/post/avoiding-data-leakage-machine-learning/
 
