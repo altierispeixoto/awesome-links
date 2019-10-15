@@ -1,4 +1,7 @@
 # Awesome Links
+
+https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning/
+
 https://github.com/mikemull/Notebooks/blob/master/Kalman-Slides-PyDataChicago2016.ipynb
 
 
