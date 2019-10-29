@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://lifelines.readthedocs.io/en/latest/
+
 https://towardsdatascience.com/validating-your-machine-learning-model-25b4c8643fb7
 
 https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning/
