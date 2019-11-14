@@ -1,5 +1,7 @@
 # Awesome Links
 
+https://pyflux.readthedocs.io/en/latest/index.html
+
 https://lifelines.readthedocs.io/en/latest/
 
 https://towardsdatascience.com/validating-your-machine-learning-model-25b4c8643fb7
