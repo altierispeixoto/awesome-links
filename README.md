@@ -1,5 +1,12 @@
 # Awesome Links
 
+
+[https://github.com/pytorch/fairseq](Fairseq - Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks. )
+
+[https://docs.ampligraph.org/en/1.3.2/](AmpliGraph - Open source Python library that predicts links between concepts in a knowledge graph.)
+
+[https://github.com/facebookresearch/PyTorch-BigGraph](PyTorch-BigGraph (PBG) is a distributed system for learning graph embeddings for large graphs, particularly big web interaction graphs with up to billions of entities and trillions of edges.)
+
 https://pyflux.readthedocs.io/en/latest/index.html
 
 https://lifelines.readthedocs.io/en/latest/
