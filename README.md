@@ -7,6 +7,10 @@
 
 [https://github.com/facebookresearch/PyTorch-BigGraph](PyTorch-BigGraph (PBG) is a distributed system for learning graph embeddings for large graphs, particularly big web interaction graphs with up to billions of entities and trillions of edges.)
 
+
+https://executablebooks.org/en/latest/gallery.html
+
+
 https://pyflux.readthedocs.io/en/latest/index.html
 
 https://lifelines.readthedocs.io/en/latest/
