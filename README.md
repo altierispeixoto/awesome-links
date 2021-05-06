@@ -1,6 +1,8 @@
 # Awesome Links
 
 
+[https://debezium.io/](Debezium is an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. Debezium is durable and fast, so your apps can respond quickly and never miss an event, even when things go wrong.)
+
 [https://github.com/pytorch/fairseq](Fairseq - Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks. )
 
 [https://docs.ampligraph.org/en/1.3.2/](AmpliGraph - Open source Python library that predicts links between concepts in a knowledge graph.)
