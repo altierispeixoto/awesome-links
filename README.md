@@ -199,6 +199,15 @@ Simple and complex tricks that can help you boost your deep learning models accu
 
 # Tools
 
+
+[lifetimes](https://lifetimes.readthedocs.io/en/latest/)
+Lifetimes can be used to analyze your users based on a few assumption:
+
+Users interact with you when they are “alive”.
+Users under study may “die” after some period of time.
+I’ve quoted “alive” and “die” as these are the most abstract terms: feel free to use your own definition of “alive” and “die” (they are used similarly to “birth” and “death” in survival analysis). Whenever we have individuals repeating occurrences, we can use Lifetimes to help understand user behaviour.
+
+
 [Autograd](https://github.com/HIPS/autograd)
 Autograd can automatically differentiate native Python and Numpy code. It can handle a large subset of Python's features, including loops, ifs, recursion and closures, and it can even take derivatives of derivatives of derivatives. It supports reverse-mode differentiation (a.k.a. backpropagation), which means it can efficiently take gradients of scalar-valued functions with respect to array-valued arguments, as well as forward-mode differentiation, and the two can be composed arbitrarily. The main intended application of Autograd is gradient-based optimization.
 
