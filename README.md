@@ -9,6 +9,7 @@
 
 [https://github.com/facebookresearch/PyTorch-BigGraph](PyTorch-BigGraph (PBG) is a distributed system for learning graph embeddings for large graphs, particularly big web interaction graphs with up to billions of entities and trillions of edges.)
 
+[ray](https://www.ray.io/) Ray is an open source project that makes it ridiculously simple to scale any compute-intensive Python workload — from deep learning to production model serving. With a rich set of libraries and integrations built on a flexible distributed execution framework, Ray makes distributed computing easy and accessible to every engineer.
 
 https://executablebooks.org/en/latest/gallery.html
 
